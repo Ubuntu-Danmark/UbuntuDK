@@ -56,10 +56,10 @@ Stk. 4. Dagsordenen for den ordinære generalforsamling skal mindst indeholde f�
 7. Godkendelse af budget
 8. Valg af bestyrelse
  * Valg af formand
- * Valg af kasser
+ * Valg af kasserer
  * Valg af 3 bestyrelsesmedlemmer og 2 suppleanter
  * Valg af revisor (ikke bestyrelsesmedlem)
- * Valg af LoCo kontakt
+ * Valg af LoCo-kontakt
 9. Eventuelt
 
 Stk. 5. Forslag, der ønskes behandlet på generalforsamlingen, skal være bestyrelsen i hænde senest 8 dage før generalforsamlingen; og udsendes til medlemmerne per email senest 5 dage før generalforsamlingen. Forslag om vedtægtsændringer, der ønskes behandlet, skal være bestyrelsen i hænde senest 1. april og udsendes til medlemmerne sammen med indkaldelse og dagsorden til generalforsamlingen.
