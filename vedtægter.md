@@ -55,16 +55,16 @@ Stk. 4. Dagsordenen for den ordinære generalforsamling skal mindst indeholde f�
 6. Behandling af indkomne forslag
 7. Godkendelse af budget
 8. Valg af bestyrelse
- * Valg af formand
- * Valg af kasser
- * Valg af 3 bestyrelsesmedlemmer og 2 suppleanter
+ * Valg af Formand (lige år)
+ * Valg af Kasserer (ulige år)
+ * Valg af max 7 menige bestyrelsesmedlemmer (2-4 i lige år og 1-3 i ulige år) og 2 suppleanter
  * Valg af revisor (ikke bestyrelsesmedlem)
- * Valg af LoCo kontakt
+ * Valg af LoCo-kontakt (kan godt være et bestyrelsesmedlem)
 9. Eventuelt
 
-Stk. 5. Forslag, der ønskes behandlet på generalforsamlingen, skal være bestyrelsen i hænde senest 8 dage før generalforsamlingen; og udsendes til medlemmerne per email senest 5 dage før generalforsamlingen. Forslag om vedtægtsændringer, der ønskes behandlet, skal være bestyrelsen i hænde senest 1. april og udsendes til medlemmerne sammen med indkaldelse og dagsorden til generalforsamlingen.
+Stk. 5. Forslag, der ønskes behandlet på generalforsamlingen, skal være bestyrelsen i hænde senest 8 dage før generalforsamlingen; og udsendes til medlemmerne per email senest 5 dage før generalforsamlingen. Forslag om vedtægtsændringer, der ønskes behandlet, skal være bestyrelsen i hænde senest 8 dage før generalforsamlingen og udsendes til medlemmerne per email senest 5 dage før generalforsamlingen.
 
-Stk 6. Opstilling til tillidsposter skal ske skriftligt til bestyrelsen senest 7 dage før generalforsamlingen og skal udsendes til medlemmerne, sammen med indkomne forslag senest 5 dage før generalforsamlingen. Hvis ikke der er opstillet nok til kampvalg, kan skriftlig nominering ske på selve generalforsamlingen hvis mindst 5 fremmødte ønsker dette.
+Stk 6. Opstilling til tillidsposter skal ske skriftligt til bestyrelsen senest 8 dage før generalforsamlingen og skal udsendes til medlemmerne, senest 5 dage før generalforsamlingen. Hvis ikke der er opstillet nok til kampvalg, kan nominering ske på selve generalforsamlingen, hvis mindst 5 fremmødte ønsker dette.
 
 Opstillingsberettiget er ethvert medlem af foreningen.
 
@@ -84,7 +84,7 @@ Stk. 2. Indkaldelsesfristen for en ekstraordinær generalforsamling er 2 uger.
 
 # § 6. Foreningens daglige ledelse
 
-Stk. 1. Foreningens daglige ledelse udgøres af bestyrelsen, der foruden formanden består af kassereren, og 3 medlemmer. Bestyrelsen vælges af generalforsamlingen for en 1-årig periode, således at der hvert år vælges 3 medlemmer foruden formanden og kasseren.
+Stk. 1 Foreningens daglige ledelse udgøres af bestyrelsen, der foruden Formanden består af Kassereren, og 3-7 medlemmer. Bestyrelsen vælges af generalforsamlingen for en 2-årig periode, således, at der vælges Formand + 2-4 medlemmer i lige år og Kasserer + 1-3 medlemmer i ulige år. Formand og Kasserer kan ikke være på valg samme år.
 
 Stk. 2. Bestyrelsen leder foreningen i overensstemmelse med nærværende vedtægter og generalforsamlingens beslutninger.
 
@@ -137,4 +137,5 @@ Stk. 2. Foreningens formue skal i tilfælde af opløsning anvendes i overensstem
 Stk. 1. Således vedtaget på foreningens stiftende generalforsamling den 7. september 2008.
 
 *Ændret ved ekstraordinær generalforsamling 3. oktober 2010.*
+*Ændret ved ordinær generalforsamling 26. april 2015.*
 
