@@ -26,5 +26,5 @@
  Peter Bjørn, neglesaks, 2015
  * Valg af LoCo-kontakt (kan godt være et bestyrelsesmedlem)
  
- Daniel Ejsing-Duun, Zilvador, 2014
+ Daniel Ejsing-Duun, Zilvador, 2015
  
