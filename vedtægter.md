@@ -62,9 +62,9 @@ Stk. 4. Dagsordenen for den ordinære generalforsamling skal mindst indeholde f�
  * Valg af LoCo-kontakt
 9. Eventuelt
 
-Stk. 5. Forslag, der ønskes behandlet på generalforsamlingen, skal være bestyrelsen i hænde senest 8 dage før generalforsamlingen; og udsendes til medlemmerne per email senest 5 dage før generalforsamlingen. Forslag om vedtægtsændringer, der ønskes behandlet, skal være bestyrelsen i hænde senest 1. april og udsendes til medlemmerne sammen med indkaldelse og dagsorden til generalforsamlingen.
+Stk. 5. Forslag, der ønskes behandlet på generalforsamlingen, skal være bestyrelsen i hænde senest 8 dage før generalforsamlingen; og udsendes til medlemmerne per email senest 5 dage før generalforsamlingen. Forslag om vedtægtsændringer, der ønskes behandlet, skal være bestyrelsen i hænde senest 8 dage før generalforsamlingen og udsendes til medlemmerne per email senest 5 dage før generalforsamlingen.
 
-Stk 6. Opstilling til tillidsposter skal ske skriftligt til bestyrelsen senest 7 dage før generalforsamlingen og skal udsendes til medlemmerne, sammen med indkomne forslag senest 5 dage før generalforsamlingen. Hvis ikke der er opstillet nok til kampvalg, kan skriftlig nominering ske på selve generalforsamlingen hvis mindst 5 fremmødte ønsker dette.
+Stk 6. Opstilling til tillidsposter skal ske skriftligt til bestyrelsen senest 8 dage før generalforsamlingen og skal udsendes til medlemmerne, senest 5 dage før generalforsamlingen. Hvis ikke der er opstillet nok til kampvalg, kan nominering ske på selve generalforsamlingen, hvis mindst 5 fremmødte ønsker dette.
 
 Opstillingsberettiget er ethvert medlem af foreningen.
 
