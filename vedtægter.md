@@ -137,5 +137,6 @@ Stk. 2. Foreningens formue skal i tilfælde af opløsning anvendes i overensstem
 Stk. 1. Således vedtaget på foreningens stiftende generalforsamling den 7. september 2008.
 
 *Ændret ved ekstraordinær generalforsamling 3. oktober 2010.*
+
 *Ændret ved ordinær generalforsamling 26. april 2015.*
 
