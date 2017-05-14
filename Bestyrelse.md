@@ -26,7 +26,6 @@
 |Nicky Thomassen | | nicky | 2017 | 2019|
 | Daniel Ejsing-Duun |  |Zilvador | 2017 | 2019|
  
- Nicky Thomassen, nicky, 2017
  * 2 suppleanter
  
  (ingen)
