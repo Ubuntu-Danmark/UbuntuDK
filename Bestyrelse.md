@@ -1,31 +1,42 @@
 
 # Bestyrelse for Foreningen af danske Ubuntubrugere
  
- * Formand (lige år):
+
+
+ * Formand (på valg i lige år):
  
- Søren Caspersen, sbc, [https://launchpad.net/~soeren-b-c](soeren-b-c), 2016
- * Kasserer (ulige år)
+| Navn   |      Launchpad      |  IRC-nick | År senest valgt | År på valg igen |
+|--------|---------------------|:---------:|:---------------:|:---------------:|
+|Søren Caspersen | [soeren-b-c](https://launchpad.net/~soeren-b-c) | sbc | 2016 | 2018|
+
+* Kasserer (på valg i ulige år)
  
- Nicky Thomassen, nicky, 2017
+| Navn   |      Launchpad      |  IRC-nick | År senest valgt | År på valg igen |
+|--------|---------------------|:---------:|:---------------:|:---------------:|
+|Nicky Thomassen | | nicky | 2017 | 2019|
+
  
- * Valg af max 7 menige bestyrelsesmedlemmer (2-4 i lige år og 1-3 i ulige år) 
+ * Bestyrelsesmedlemmer (2-4 kandidater i lige år og 1-3 kandidater i ulige år) 
  
- Anders Jenbo, Ajenbo, 2016
+| Navn   |      Launchpad      |  IRC-nick | År senest valgt | År på valg igen |
+|--------|---------------------|:---------:|:---------------:|:---------------:|
+|Anders Jenbo| |Ajenbo|2016|2018|
+|Lars Tørnes Hansen| | lars_t_h | 2016 | 2018|
+| Jannie Udengaard | | Momsemor | 2016 | 2018|
+|Nicky Thomassen | | nicky | 2017 | 2019|
+| Daniel Ejsing-Duun |  |Zilvador | 2017 | 2019|
  
- Lars Tørnes Hansen, lars_t_h, 2016
- 
- Jannie Udengaard, Momsemor, 2016
- 
- Daniel Ejsing-Duun, Zilvador, 2017
- 
- Nicky Thomassen, nicky, 2017
- * 2 suppleanter
+ * Op til 2 suppleanter
  
  (ingen)
  * Revisor (ikke bestyrelsesmedlem)
  
-Christian Arvai, Christian_Arvai, 2017
+| Navn   |      Launchpad      |  IRC-nick | År senest valgt | År på valg igen |
+|--------|---------------------|:---------:|:---------------:|:---------------:|
+|Christian Arvai | |  Christian_Arvai | 2017 | 2018|
  * LoCo-kontakt (kan godt være et bestyrelsesmedlem)
  
- Daniel Ejsing-Duun, Zilvador, 2017
+| Navn   |      Launchpad      |  IRC-nick | År senest valgt | År på valg igen |
+|--------|---------------------|:---------:|:---------------:|:---------------:|
+| Daniel Ejsing-Duun | [zilvador](https://launchpad.net/~zilvador)| Zilvador | 2017 | 2018|
  
