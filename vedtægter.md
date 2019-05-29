@@ -138,3 +138,5 @@ Stk. 1. Således vedtaget på foreningens stiftende generalforsamling den 7. sep
 
 *Ændret ved ordinær generalforsamling 26. april 2015.*
 
+*Ændret ved ordinær generalforsamling 12. maj 2019.*
+
