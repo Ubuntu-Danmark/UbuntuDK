@@ -88,11 +88,9 @@ Stk. 1 Foreningens daglige ledelse udgøres af bestyrelsen, der foruden Formande
 
 Stk. 2. Bestyrelsen leder foreningen i overensstemmelse med nærværende vedtægter og generalforsamlingens beslutninger.
 
-Stk. 3. Senest 14 dage efter nyvalg til bestyrelsen afholdes konstituerende møde.
+Stk. 3. Bestyrelsen fastsætter i øvrigt selv sin forretningsorden. Den kan nedsætte underudvalg og arbejdsgrupper til varetagelse af afgrænsede opgaver.
 
-Stk. 4. Bestyrelsen fastsætter i øvrigt selv sin forretningsorden. Den kan nedsætte underudvalg og arbejdsgrupper til varetagelse af afgrænsede opgaver.
-
-Stk. 5. Formanden indkalder og leder bestyrelsens møder. Indkaldelse sker skriftligt eller underskrevet e-mail med angivelse af dagsorden, når formanden skønner det nødvendigt, eller mindst tre medlemmer af bestyrelsen fremsætter ønske om det overfor formanden. I sådanne tilfælde afholdes mødet senest 2 uger efter anmodningen er kommet til formandens kundskab.
+Stk. 4. Formanden indkalder og leder bestyrelsens møder. Indkaldelse sker skriftligt eller underskrevet e-mail med angivelse af dagsorden, når formanden skønner det nødvendigt, eller mindst tre medlemmer af bestyrelsen fremsætter ønske om det overfor formanden. I sådanne tilfælde afholdes mødet senest 2 uger efter anmodningen er kommet til formandens kundskab.
 
  
 
@@ -139,4 +137,6 @@ Stk. 1. Således vedtaget på foreningens stiftende generalforsamling den 7. sep
 *Ændret ved ekstraordinær generalforsamling 3. oktober 2010.*
 
 *Ændret ved ordinær generalforsamling 26. april 2015.*
+
+*Ændret ved ordinær generalforsamling 12. maj 2019.*
 

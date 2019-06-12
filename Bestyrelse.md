@@ -13,7 +13,7 @@
  
 | Navn   |      Launchpad      |  IRC-nick | År senest valgt | År på valg igen |
 |--------|---------------------|:---------:|:---------------:|:---------------:|
-|Nicky Thomassen | | nicky | 2017 | 2019|
+|Nicky Thomassen | | nicky | 2019 | 2021|
 
  
  * Bestyrelsesmedlemmer (2-4 kandidater i lige år og 1-3 kandidater i ulige år) 
@@ -22,8 +22,8 @@
 |--------|---------------------|:---------:|:---------------:|:---------------:|
 |Anders Jenbo| |Ajenbo|2018|2020|
 | Jannie Udengaard | | Momsemor | 2018 | 2020|
-|Nicky Thomassen | | nicky | 2017 | 2019|
-| Daniel Ejsing-Duun |  |Zilvador | 2017 | 2019|
+|Nicky Thomassen | | nicky | 2019 | 2021|
+
  
  * Op til 2 suppleanter
  
@@ -32,11 +32,11 @@
  
 | Navn   |      Launchpad      |  IRC-nick | År senest valgt | År på valg igen |
 |--------|---------------------|:---------:|:---------------:|:---------------:|
-|Christian Arvai | |  Christian_Arvai | 2018 | 2019|
+|HenningBuddig | |  buddig | 2019 | 2020|
  * LoCo-kontakt (kan godt være et bestyrelsesmedlem)
  
 | Navn   |      Launchpad      |  IRC-nick | År senest valgt | År på valg igen |
 |--------|---------------------|:---------:|:---------------:|:---------------:|
-|Anders Jenbo| |Ajenbo|2018|2019|
+|Anders Jenbo| |Ajenbo|2019|2020|
 
  
