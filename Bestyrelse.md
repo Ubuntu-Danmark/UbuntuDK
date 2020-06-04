@@ -7,7 +7,7 @@
  
 | Navn   |      Launchpad      |  IRC-nick | År senest valgt | År på valg igen |
 |--------|---------------------|:---------:|:---------------:|:---------------:|
-|Søren Caspersen | [soeren-b-c](https://launchpad.net/~soeren-b-c) | sbc | 2020 | 2020|
+|Søren Caspersen | [soeren-b-c](https://launchpad.net/~soeren-b-c) | sbc | 2020 | 2022|
 
 * Kasserer (på valg i ulige år)
  
