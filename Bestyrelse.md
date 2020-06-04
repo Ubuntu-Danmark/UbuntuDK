@@ -7,7 +7,7 @@
  
 | Navn   |      Launchpad      |  IRC-nick | År senest valgt | År på valg igen |
 |--------|---------------------|:---------:|:---------------:|:---------------:|
-|Søren Caspersen | [soeren-b-c](https://launchpad.net/~soeren-b-c) | sbc | 2018 | 2020|
+|Søren Caspersen | [soeren-b-c](https://launchpad.net/~soeren-b-c) | sbc | 2020 | 2020|
 
 * Kasserer (på valg i ulige år)
  
@@ -20,8 +20,8 @@
  
 | Navn   |      Launchpad      |  IRC-nick | År senest valgt | År på valg igen |
 |--------|---------------------|:---------:|:---------------:|:---------------:|
-|Anders Jenbo| |Ajenbo|2018|2020|
-| Jannie Udengaard | | Momsemor | 2018 | 2020|
+|Anders Jenbo| |Ajenbo|2020|2022|
+| Jannie Udengaard | | Momsemor | 2020 | 2022|
 |Nicky Thomassen | | nicky | 2019 | 2021|
 
  
@@ -32,11 +32,10 @@
  
 | Navn   |      Launchpad      |  IRC-nick | År senest valgt | År på valg igen |
 |--------|---------------------|:---------:|:---------------:|:---------------:|
-|HenningBuddig | |  buddig | 2019 | 2020|
+|HenningBuddig | |  buddig | 2020 | 2021|
  * LoCo-kontakt (kan godt være et bestyrelsesmedlem)
  
 | Navn   |      Launchpad      |  IRC-nick | År senest valgt | År på valg igen |
 |--------|---------------------|:---------:|:---------------:|:---------------:|
-|Anders Jenbo| |Ajenbo|2019|2020|
-
+|Daniel Ejsing-Duun| |Zilvador|2020|2021|
  
