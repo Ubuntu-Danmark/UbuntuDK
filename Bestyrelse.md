@@ -13,7 +13,7 @@
  
 | Navn   |  IRC-nick | År senest valgt | År på valg igen |
 |--------|:---------:|:---------------:|:---------------:|
-|Nicky Thomassen | nicky | 2019 | 2021|
+|Nicky Thomassen | nicky | 2021 | 2023|
 
  
  * Bestyrelsesmedlemmer (2-4 kandidater i lige år og 1-3 kandidater i ulige år) 
@@ -22,20 +22,22 @@
 |--------|:---------:|:---------------:|:---------------:|
 |Anders Jenbo | Ajenbo|2020|2022|
 | Jannie Udengaard | Momsemor | 2020 | 2022|
-|Nicky Thomassen | nicky | 2019 | 2021|
+|Nicky Thomassen | nicky | 2021 | 2023|
 
  
  * Op til 2 suppleanter
  
  (ingen)
- * Revisor (ikke bestyrelsesmedlem)
+
+* Revisor (ikke bestyrelsesmedlem)
  
 | Navn   |  IRC-nick | År senest valgt | År på valg igen |
 |--------|:---------:|:---------------:|:---------------:|
-|HenningBuddig |  buddig | 2020 | 2021|
+|HenningBuddig |  buddig | 2021 | 2022|
+
  * LoCo-kontakt (kan godt være et bestyrelsesmedlem)
  
 | Navn   |  IRC-nick | År senest valgt | År på valg igen |
 |--------|:---------:|:---------------:|:---------------:|
-|Daniel Ejsing-Duun | Zilvador|2020|2021|
+|Daniel Ejsing-Duun | Zilvador|2021|2022|
  
