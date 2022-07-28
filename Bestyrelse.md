@@ -7,7 +7,7 @@
  
 | Navn   |  IRC-nick | År senest valgt | År på valg igen |
 |--------|:---------:|:---------------:|:---------------:|
-|Søren Caspersen | sbc | 2020 | 2022|
+|Søren Caspersen | sbc | 2022 | 2024|
 
 * Kasserer (på valg i ulige år)
  
@@ -20,9 +20,10 @@
  
 | Navn   |  IRC-nick | År senest valgt | År på valg igen |
 |--------|:---------:|:---------------:|:---------------:|
-|Anders Jenbo | Ajenbo|2020|2022|
-| Jannie Udengaard | Momsemor | 2020 | 2022|
 |Nicky Thomassen | nicky | 2021 | 2023|
+|Anders Jenbo | Ajenbo|2022|2024|
+| Jannie Udengaard | Momsemor | 2022 | 2024|
+
 
  
  * Op til 2 suppleanter
@@ -33,11 +34,11 @@
  
 | Navn   |  IRC-nick | År senest valgt | År på valg igen |
 |--------|:---------:|:---------------:|:---------------:|
-|HenningBuddig |  buddig | 2021 | 2022|
+|HenningBuddig |  buddig | 2022 | 2023|
 
  * LoCo-kontakt (kan godt være et bestyrelsesmedlem)
  
 | Navn   |  IRC-nick | År senest valgt | År på valg igen |
 |--------|:---------:|:---------------:|:---------------:|
-|Daniel Ejsing-Duun | Zilvador|2021|2022|
+|Daniel Ejsing-Duun | Zilvador|2022|2023|
  
