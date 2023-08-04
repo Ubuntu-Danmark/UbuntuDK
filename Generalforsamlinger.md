@@ -1,3 +1,8 @@
+## Dato 2023-06-08
+- [Indkaldelse](https://lists.ubuntu.com/archives/ubuntu-dk/2023-June/003039.html)
+- [Referat](https://lists.ubuntu.com/archives/ubuntu-dk/2023-August/003040.html)
+- [Discord log](LINK HER?!?)
+
 ## Dato 2022-05-24
 - [Indkaldelse](https://lists.ubuntu.com/archives/ubuntu-dk/2022-April/003034.html)
 - [Referat](https://lists.ubuntu.com/archives/ubuntu-dk/2022-July/003037.html)
