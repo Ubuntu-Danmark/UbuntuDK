@@ -1,7 +1,7 @@
 ## Dato 2024-05-14
 - [Indkaldelse](https://lists.ubuntu.com/archives/ubuntu-dk/2024-April/003041.html)
 - [Referat](MANGLER)
-- [Discord log](MANGLER)
+- [Discord log](https://discord.com/channels/847917317626658916/847918205283598368/1240016478128963744)
 
 ## Dato 2023-06-08
 - [Indkaldelse](https://lists.ubuntu.com/archives/ubuntu-dk/2023-June/003039.html)
