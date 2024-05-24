@@ -7,7 +7,7 @@
  
 | Navn   |  IRC-nick | År senest valgt | År på valg igen |
 |--------|:---------:|:---------------:|:---------------:|
-|Søren Caspersen | sbc | 2022 | 2024|
+|Søren Caspersen | sbc | 2024 | 2026|
 
 * Kasserer (på valg i ulige år)
  
@@ -20,8 +20,8 @@
  
 | Navn   |  IRC-nick | År senest valgt | År på valg igen |
 |--------|:---------:|:---------------:|:---------------:|
-|Anders Jenbo | Ajenbo|2022|2024|
-| Jannie Udengaard | Momsemor | 2022 | 2024|
+|Anders Jenbo | Ajenbo|2024|2026|
+| Jannie Udengaard | Momsemor | 2024 | 2026|
 |Dennis Krogh | Mantise | 2023 | 2025|
 |Daniel Ejsing-Duun | Zilvador|2023|2025|
 
@@ -37,5 +37,5 @@
  
 | Navn   |  IRC-nick | År senest valgt | År på valg igen |
 |--------|:---------:|:---------------:|:---------------:|
-|Daniel Ejsing-Duun | Zilvador|2023|2024|
+|Daniel Ejsing-Duun | Zilvador|2024|2026|
  
