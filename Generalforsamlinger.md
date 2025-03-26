@@ -1,3 +1,6 @@
+## Dato 2025-05-27
+- [Indkaldelse](https://lists.ubuntu.com/archives/ubuntu-dk/2025-March/003044.html)
+
 ## Dato 2024-05-14
 - [Indkaldelse](https://lists.ubuntu.com/archives/ubuntu-dk/2024-April/003041.html)
 - [Referat](MANGLER)
