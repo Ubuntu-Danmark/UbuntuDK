@@ -1,6 +1,6 @@
 ## Dato 2025-05-27
 - [Indkaldelse](https://lists.ubuntu.com/archives/ubuntu-dk/2025-March/003044.html)
-- [Referat](OPDATERES SENERE)
+- [Referat](https://lists.ubuntu.com/archives/ubuntu-dk/2025-June/003051.html)
 - [Discord log](https://discord.com/channels/847917317626658916/847918205283598368/1376998660058910840)
 
 ## Dato 2024-05-14
