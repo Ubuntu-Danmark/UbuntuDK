@@ -1,3 +1,7 @@
+## Dato 2026-04-22
+- [Indkaldelse](https://lists.ubuntu.com/archives/ubuntu-dk/2026-April/003060.html)
+- [IRC_log](https://irclogs.ubuntu.com/2026/04/22/%23ubuntu-dk.html)
+
 ## Dato 2025-05-27
 - [Indkaldelse](https://lists.ubuntu.com/archives/ubuntu-dk/2025-March/003044.html)
 - [Referat](https://lists.ubuntu.com/archives/ubuntu-dk/2025-June/003051.html)
